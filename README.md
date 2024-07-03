@@ -12,10 +12,11 @@ Fetches account summary from [Swaper](https://swaper.com/) and displays account 
 Add a new account (type Swaper Account”)
 
 ## Known Issues and Limitations
-Always assumes EUR as base currency
+Always assumes EUR as base currency \
 Doesn't consider withdraws when calculating gains
 
 ## Support the maintainance
 By using this [Swaper referal code](https://www.swaper.com/#/ref/wvtKXMDaiJ), I'll receive a small bonus from Swaper. 
-Or just [buy me a coffee](https://buymeacoffee.com/ralfklemmer) to support my work.
+Or just [:coffee: buy me a coffee :coffee:](https://buymeacoffee.com/ralfklemmer) to support my work.
+
 :heart: Thank you! :heart:
