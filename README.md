@@ -1,6 +1,5 @@
-# moneymoney extension for Swaper
-
-Fetches account summary from Swaper and displays account value as well as gains.
+# MoneyMoney extension for Swaper
+Fetches account summary from [Swaper](https://swaper.com/) and displays account value as well as gains in [MoneyMoney](https://moneymoney-app.com/).
 
 ## Setup
 1. Download Swaper extension swaper.lua
