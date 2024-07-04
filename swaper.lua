@@ -132,3 +132,5 @@ function printCurl(restPath)
   end
   print(LOG ..curlCommand)
 end
+
+-- SIGNATURE: MC0CFQCLTL5BKOsMhRJ1vZhCRG54Dsrm+AIUL9Ben/o9Xu/K7YzJzxw8kcebmyU=
